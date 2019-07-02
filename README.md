@@ -77,3 +77,6 @@ SonarQube-javascript
             ├── sonar-javascript-plugin-5.2.1.7778.jar
             └── sonar-l10n-zh-plugin-1.16.jar
 ```
+
+### 缺陷
+- 提问题请转至[issue](https://github.com/songjian925/SonarQube-javascript/issues)页面
