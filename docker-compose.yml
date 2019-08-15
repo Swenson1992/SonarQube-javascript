@@ -1,4 +1,4 @@
-version: '3.0'
+version: '2.3'
 networks:
   bridge:
     driver: bridge
@@ -7,7 +7,7 @@ services:
   db:
     image: postgres
     mem_limit: 2048m
-    restart: "no"
+    restart: always
     networks:
     - bridge
     environment:
